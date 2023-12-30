@@ -19,6 +19,7 @@ You can then view your coins in your portfolio, and it will show your current ho
 
 # Technoloiges Used
 - Swift
+- Swift UI
 - XCode
 - Core Data
 - Combine
