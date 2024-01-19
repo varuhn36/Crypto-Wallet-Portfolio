@@ -9,7 +9,7 @@ You can also click on the arrow on the right hand side of the coin, and get info
 
 <img src="https://github.com/varuhn36/Crypto-Wallet-Portfolio/blob/main/Images/Coin%20Details.jpeg" alt="Coin Details" width="300" height="600">
 
-If you click the arrow in the top left corner, you are able to view your portfolio and add coins to you portfolio. Simply click on the plus button in the top right corner that shows after after changing you view to add a coin to your portfolio. You will just need to enter the amount of the coin you have:
+If you click the arrow in the top left corner, you are able to view your portfolio and add coins to you portfolio. Simply click on the plus button in the top right corner that shows after after changing your view to add a coin to your portfolio. You will just need to enter the amount of the coin you have:
 
 <img src="https://github.com/varuhn36/Crypto-Wallet-Portfolio/blob/main/Images/Edit%20Portfolio.jpeg" alt="Portfolio View" width="300" height="600">
 
